@@ -28,4 +28,3 @@ inv<-solve(data)
 x$setInverse(inv)
 inv
 }
-        
